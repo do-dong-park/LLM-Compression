@@ -1,0 +1,6 @@
+[submodule "submodules/LLM-Pruner"]
+	path = submodules/LLM-Pruner
+	url = https://github.com/horseee/LLM-Pruner.git
+[submodule "submodules/llm-awq"]
+	path = submodules/llm-awq
+	url = https://github.com/mit-han-lab/llm-awq
