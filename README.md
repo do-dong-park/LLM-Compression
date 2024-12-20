@@ -21,7 +21,7 @@ Located in [submodules/LLM-Pruner](submodules/LLM-Pruner/), this submodule provi
 - [post_training.py](submodules/LLM-Pruner/post_training.py): Post-training optimization script.
 - [test_speedup.py](submodules/LLM-Pruner/test_speedup.py): Script for testing the speedup of pruned models.
 
-### llm-awq
+### bitsandbytes
 pip install bitsandbytes
 
 ## Examples
